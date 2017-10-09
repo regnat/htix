@@ -1,1 +1,1 @@
-# htix
+__Obsolete__ see https://github.com/regnat/ptyx
